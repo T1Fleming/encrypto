@@ -1,0 +1,10 @@
+{
+    "encrypt": {
+        "textFileToEncryptPath": "fileToEncrypt",
+        "textOutFileName": "EncryptedMsg"
+    },
+    "decrypt": {
+        "textFileToDecrypt": "EncryptedMsg",
+        "textOutFileName": "decryptedMsg"
+    }
+}
